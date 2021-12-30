@@ -1,0 +1,7 @@
+[project]
+name = "multisig-vault"
+requirements = []
+costs_version = 1
+[contracts.multisig-vault]
+path = "contracts/multisig-vault.clar"
+depends_on = []
